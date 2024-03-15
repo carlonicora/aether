@@ -28,13 +28,13 @@
    - [The Veil of Secrecy](Chapters/07/VeilOfSecrecy.md)
    - [Secret Societies](Chapters/07/SecretSocieties.md)
    - [The Human-Elemental Connection](Chapters/07/HumanElementalConnection.md)
-8. **Storytelling and Narration**
+8. [**Storytelling and Narration**](Chapter/08/StorytellingNarration.md)
    - Crafting Intrigue and Mystery
    - Balancing Horror and Adventure
    - Developing NPCs and Antagonists
    - Rolling Dice
    - Rule as Written vs Rule of Cool
-9. **Game Mastering**
+9. [**Plotting for Immortality**](Chapter/09/PlottingImmortality.md)
    - Basic: Conflicts and Plots
    - Expert: Scene Structures
    - Companion: Characters and Backgrounds
