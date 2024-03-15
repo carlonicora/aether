@@ -1,7 +1,7 @@
 1. **[Introduction](Chapters/01/Introduction.md)** -> TO REVIEW
    - [Overview of the Game](Chapters/01/Overview.md) -> TO REVIEW
    - [Example of Play](Chapters/01/Example.md) -> TO WRITE
-   - [How to Use This Book](Chapters/01/How.md)
+   - [How to Use This Book](Chapters/01/How.md) -> TO REVIEW
 2. [**Creating Characters**](Chapters/02/Characters.md)
    - [Allocating Ability Points](Chapters/02/Allocating.md)
    - [Passive Abilities](Chapters/02/Passive.md)
