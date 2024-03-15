@@ -11,17 +11,17 @@
 4. [**Game System**](Chapters/04/Game.md)
    - [Life Points](Chapters/04/Life.md)
    - [Action Resolution](Chapters/04/ActionResolution.md)
-5. **Combat**
-   - Initiating an Attack and Calculating Damages
-   - Defending Against Attacks
-   - Counter Attacks
-   - Weapons
-   - Armours
-6. **The World of Elementals**  
-   - Historical Setting: The 1930s
-   - Geographical Overview
-   - Society and Culture
-   - The Hidden World of Elementals
+5. [**Combat**](Chapters/05/Combat.md)
+   - [Initiating an Attack and Calculating Damages](Chapters/05/Attack.md)
+   - [Defending Against Attacks](Chapters/05/Defend.md)
+   - [Counter Attacks](Chapters/05/CounterAttacks.md)
+   - [Weapons](Chapters/05/Weapons.md)
+   - [Armours](Chapters/05/Armours.md)
+6. [**The World of Elementals**](Chapters/06/World.md)
+   - [Historical Setting: The 1930s](Chapters/06/History.md)
+   - [Geographical Overview](Chapters/06/Geography.md)
+   - [Society and Culture](Chapters/06/Society.md)
+   - [The Hidden World of Elementals](Chapters/06/HiddenWorld.md)
    - Major Factions and Powers
 7. **Core Concepts**
    - Nature of Elementals
