@@ -1,6 +1,7 @@
 ## Overview of the Game
 What can we dream for Æther to achieve? That you can have fun and spend some time living incredible adventures. 
 
+### What are Role Playing Games?
 If this is your first encounter with a TTRPG manual, welcome to one of the best possible hobbies in the world. I will try and give you a short introduction to what a TTRPG is, even if I believe that if you are holding this book in your hand, you already know much about the game already.
 
 One of the players will take the role of Game Master. Their role is to be the moderator of the game, setting the adventure and running the game for the other players. The rest of the players will take the part of our heroes, the everyday's characters thrown in the incredible. Whichever role you are in, remember that role playing games are not a "us against them", nobody loses, but the more you play collaboratively, the more fun everyone at the table has.
@@ -11,4 +12,7 @@ If you are wearing the clothes of a character, you have to realise you can be wh
 
 The game is like a make-believe, where everyone describe their character's action, and the Game Master interact as the rest of the world. Some players like to describe their character's action and words in third person, others like to be immersive. Play as you feel comfortable.
 
-As during the game there will be actions which may require some skills to be performed, like for example jumping over a fence, Æther offers a very simple set of rules. If you want to help the game, learn them in the next chapters, the game wi
+As during the game there will be actions which may require some skills to be performed, like for example jumping over a fence, Æther offers a very simple set of rules. If you want to help the game, learn them in the next chapters, the Game Master will appreciate.
+
+### Winners and Losers
+The book you are reading is a tabletop role playing game, there are no winners or losers here. The players don't play against the Game Master and vice versa, you all play together. If the Game Master place a challenge in your path, it is not to kill your character, it is to create a conflict you can navigate through. Rolling high or rolling low is not the difference between having fun or not. Failing at something only creates a different path to play.

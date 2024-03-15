@@ -1,6 +1,6 @@
-1. **[Introduction](Chapters/01/Introduction.md)**
-   - [Overview of the Game](Chapters/01/Overview.md)
-   - [Example of Play](Chapters/01/Example.md)
+1. **[Introduction](Chapters/01/Introduction.md)** -> TO REVIEW
+   - [Overview of the Game](Chapters/01/Overview.md) -> TO REVIEW
+   - [Example of Play](Chapters/01/Example.md) -> TO WRITE
    - [How to Use This Book](Chapters/01/How.md)
 2. [**Creating Characters**](Chapters/02/Characters.md)
    - [Allocating Ability Points](Chapters/02/Allocating.md)
@@ -40,18 +40,12 @@
    - Companion: Characters and Backgrounds
    - Master: Improvisation
    - Immortal: Game Pacing
-10. **Elementals**
-   - Fire Elementals
-   - Water Elementals
-   - Earth Elementals
-   - Air Elementals
-   - The Fifth Element
-11. **Adventures and Scenarios**
+10. **Adventures and Scenarios**
    - Introductory Adventure
    - Short Campaign Ideas
    - Scenario Hooks and Twists
    - Event and Encounter Tables
-12. **Appendices**
+11. **Appendices**
    - Glossary of Terms
    - Timeline of Events
    - Bibliography and Further Reading
