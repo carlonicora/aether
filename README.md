@@ -22,12 +22,12 @@
    - [Geographical Overview](Chapters/06/Geography.md)
    - [Society and Culture](Chapters/06/Society.md)
    - [The Hidden World of Elementals](Chapters/06/HiddenWorld.md)
-   - Major Factions and Powers
-7. **Core Concepts**
-   - Nature of Elementals
-   - The Veil of Secrecy
-   - Secret Societies
-   - The Human-Elemental Connection
+   - [Major Factions](Chapters/06/Factions.md)
+7. [**Core Concepts**](Chapters/07/CoreConcepts.md)
+   - [Nature of Elementals](Chapters/07/NatureOfElementals.md)
+   - [The Veil of Secrecy](Chapters/07/VeilOfSecrecy.md)
+   - [Secret Societies](Chapters/07/SecretSocieties.md)
+   - [The Human-Elemental Connection](Chapters/07/HumanElementalConnection.md)
 8. **Storytelling and Narration**
    - Crafting Intrigue and Mystery
    - Balancing Horror and Adventure
