@@ -1,7 +1,7 @@
 1. **[Introduction](Chapters/01/Introduction.md)**
-  - [Overview of the Game](Chapters/01/Overview.md)
-  - [Example of Play](Chapters/01/Example.md)
-  - [How to Use This Book](Chapters/01/How.md)
+   - [Overview of the Game](Chapters/01/Overview.md)
+   - [Example of Play](Chapters/01/Example.md)
+   - [How to Use This Book](Chapters/01/How.md)
 2. [**Creating Characters**](Chapters/02/Characters.md)
    - [Allocating Ability Points](Chapters/02/Allocating.md)
    - [Passive Abilities](Chapters/02/Passive.md)
@@ -46,12 +46,12 @@
    - Earth Elementals
    - Air Elementals
    - The Fifth Element
-11. **Adventures and Scenarios**
+12. **Adventures and Scenarios**
    - Introductory Adventure
    - Short Campaign Ideas
    - Scenario Hooks and Twists
    - Event and Encounter Tables
-12. **Appendices**
+13. **Appendices**
    - Glossary of Terms
    - Timeline of Events
    - Bibliography and Further Reading
