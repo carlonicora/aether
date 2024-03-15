@@ -1,9 +1,9 @@
 Æther is a game of secrets, horrors, cults and monsters. The characters are simple people who achieve great things, not because their "level", incredible amount of HP or magic items, but because of their unique qualities, desires and moral fibre (or lack of thereof). It is a game that focuses on a journey of growth while facing the odds.
 
-In Æther you can imagine to immerse yourself in films as Indiana Jones or the Mummy, where excitement is around the corner, hidden behind a relic or a secret to be uncovered.
+In Æther you can imagine to immerse yourself in films as Indiana Jones or the Mummy, where excitement is around the corner, hidden behind a relic or a secret to be uncovered. The game is set in the mid '30s, with the Second World War looming over humanity and in a moment in which everyone is looking for a strategic advantage. And that strategic advantage may come through Elementals, mythical creatures who wander through the earth (yet) unnoticed.
 
 This game is based on the RAW Mechanics. They are a minimalist set of rules which focus more on roleplay than on a combat simulation. The rules are there to resolve the unpredictable, not to drive the narrative.
 
 This manual contains everything you need to start playing, or even better, to start being a Game Master. Even if you have never been a GM before, starting has never been simpler. [Chapter 8](Chapter/08/StorytellingNarration.md) is dedicated to lear the ropes of GM-ing a game, while [Chapter 9](Chapter/09/PlottingImmortality.md) is a very opinionated guide to plot great campaigns; however, no matter your style of play, be it more plotted or more sandboxed, Æther is the right game for you!
 
-In writing this book, we did not aim to create a printable tome, we do a
+In writing this book, we did not aim to create a printable tome, we are trying to be pragmatic, giving you the information you need to start playing and having fun. Remember, this book, its lores and rules are just an invitation to play: you can bend reality as much as you like!
