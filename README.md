@@ -10,7 +10,7 @@
 3. [**Abilities**](Chapters/03/Abilities.md)
 4. [**Game System**](Chapters/04/Game.md)
    - [Life Points](Chapters/04/Life.md)
-   - Action Resolution
+   - [Action Resolution](Chapters/04/ActionResolution.md)
 5. **Combat**
    - Initiating an Attack and Calculating Damages
    - Defending Against Attacks
@@ -46,12 +46,12 @@
    - Earth Elementals
    - Air Elementals
    - The Fifth Element
-12. **Adventures and Scenarios**
+11. **Adventures and Scenarios**
    - Introductory Adventure
    - Short Campaign Ideas
    - Scenario Hooks and Twists
    - Event and Encounter Tables
-13. **Appendices**
+12. **Appendices**
    - Glossary of Terms
    - Timeline of Events
    - Bibliography and Further Reading
