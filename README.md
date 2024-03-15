@@ -1,15 +1,15 @@
 1. **[Introduction](Chapters/01/Introduction.md)**
   - [Overview of the Game](Chapters/01/Overview.md)
-  - Example of Play
-  - How to Use This Book
-2. **Creating Characters**
-   - Allocating Ability Points
-   - Passive Abilities
-   - Life Points
-   - Character Story
-3. **Abilities**
-4. **Game System**
-   - Life Points
+  - [Example of Play](Chapters/01/Example.md)
+  - [How to Use This Book](Chapters/01/How.md)
+2. [**Creating Characters**](Chapters/02/Characters.md)
+   - [Allocating Ability Points](Chapters/02/Allocating.md)
+   - [Passive Abilities](Chapters/02/Passive.md)
+   - [Life Points](Chapters/02/Life.md)
+   - [Character Story](Chapters/02/Story.md)
+3. [**Abilities**](Chapters/03/Abilities.md)
+4. [**Game System**](Chapters/04/Game.md)
+   - [Life Points](Chapters/04/Life.md)
    - Action Resolution
 5. **Combat**
    - Initiating an Attack and Calculating Damages
